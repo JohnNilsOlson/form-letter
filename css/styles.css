@@ -1,0 +1,9 @@
+#letter {
+  display:none;
+}
+
+.letter-container {
+  margin:50px;
+  border:solid 2px;
+  padding: 20px;
+}
